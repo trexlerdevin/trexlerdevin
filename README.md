@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trexlerdevin
+- 👀 I’m interested in furthering my knowledge in software development and new programming languages
+- 🌱 I’m currently enrolled in The Tech Academy Full Stack Software Developer Bootcamp. I have already completed the HTML, CSS, and Javascript courses and I will be starting the SQL and databases course soon.
+- 💞️ I’m looking to collaborate on anything honestly
+- 📫 Reach me via email @ trexlerdevin@gmail.com
